@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanC07
 - 👀 I’m interested in learning new tools
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently studying Data science from The University of York
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me mail me @ rohanchowdhury6121998@gmail.com
 - 😄 Pronouns: he/him
